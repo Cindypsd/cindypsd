@@ -15,7 +15,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cindypsd&show_icons=true&locale=en&layout=compact" alt="cindypsd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cindypsd&show_icons=true&locale=en" alt="cindypsd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cindypsd&show_icons=true&locale=en" alt="cindypsd" width="200" /></p>
 
-<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=cindypsd&label=Profile%20views&color=0e75b6&style=flat" alt="cindypsd" /> </p>
+<p align="rigth"> <img src="https://komarev.com/ghpvc/?username=cindypsd&label=Profile%20views&color=0e75b6&style=flat" alt="cindypsd" width="200" /> </p>
 
