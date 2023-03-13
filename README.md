@@ -2,10 +2,11 @@
 <h1 align="center">Hi there this is Cindy Posada 👋</h3>
 <h3 align="center">A passionate Full-Stack developer from Mexico</h3>
 
+- I specialize in web development using technologies such as React, Node.js, and SQL. On this page, you'll find some of my latest projects, which showcase my skills and experience in the field. I'm always eager to learn and collaborate with others, so feel free to reach out to me with any questions or opportunities. Let's build something amazing together
 
 - 🔭 I’m currently working on **my final project at Henry**
 
-- 🌱 I’m currently learning **React Js, React Native, Boostrap**
+- 🌱 I’m currently learning **React Js, Next, TailwindCSS, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://cindypsd.netlify.app/](https://cindypsd.netlify.app/)
 
