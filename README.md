@@ -27,7 +27,7 @@ If you're looking for a creative and versatile developer to join your team, I'm 
 </div>  
   
 
-___
+
 
 Let's build something amazing together. Reach out to me anytime, and let's get started! 💡  
 
@@ -54,7 +54,7 @@ Let's build something amazing together. Reach out to me anytime, and let's get s
 ⚡ All of my projects here: https://cindypsd.netlify.app/  
   
 
-<img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="left" height="250" width="" />  
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="center" height="220" width="" />  
 
 
 </td></tr></table>  
@@ -87,15 +87,12 @@ Let's build something amazing together. Reach out to me anytime, and let's get s
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<div style="flex">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cindypsd&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cindypsd&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 48%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindypsd&hide_border=true&layout=compact" align="rigth" style="width: 48%" /></div>
 
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cindypsd&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
-
-</td></tr></table>  
+</div>
 
 <br/>  
 
