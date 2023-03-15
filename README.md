@@ -1,12 +1,8 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D5616AQEXt4F-Thj9gw/profile-displaybackgroundimage-shrink_350_1400/0/1675816721144?e=1684368000&v=beta&t=-IdA5In6LbBdTbh1czzVSEV9bYpof-S0nPzpeKQEJLE" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D5616AQEXt4F-Thj9gw/profile-displaybackgroundimage-shrink_350_1400/0/1675816721144?e=1684368000&v=beta&t=-IdA5In6LbBdTbh1czzVSEV9bYpof-S0nPzpeKQEJLE" align="center" style="width: 100% " />
 </div>  
   
-
-# **<div align="center">Cindy Posada</div>**  
-  
-
-## <div align="center">Full-Stack Developer💫🚀</div>  
+## <div align="center">Hola! soy Cindy Posada💫🚀</div>  
   
 
 I'm a Full-Stack Developer with a passion for coding! 💻 My skills include HTML, CSS, JavaScript, React, Node.js, SQL, and more. I love learning and collaborating with others to build innovative web applications. You'll find some of my latest projects, which showcase my skills and experience in the field.
@@ -16,7 +12,7 @@ If you're looking for a creative and versatile developer to join your team, I'm 
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" style="border: none">
 
 - 🌱 I’m currently learning: Python, Typescript, Next  
   
