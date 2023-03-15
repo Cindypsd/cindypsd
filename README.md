@@ -16,11 +16,9 @@ If you're looking for a creative and versatile developer to join your team, I'm 
 
 <br/>  
 
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Python, Typescript, Next  
+- 🌱 I’m currently learning: Python, Typescript, Next  
   
 
 - ⚡ All of my projects here: https://cindypsd.netlify.app/  
@@ -29,7 +27,7 @@ If you're looking for a creative and versatile developer to join your team, I'm 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="center" style="width: 100%" />
 </div>  
 
 
