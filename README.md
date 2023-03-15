@@ -37,28 +37,33 @@ Let's build something amazing together. Reach out to me anytime, and let's get s
 <br/>  
 
 
-## Rapidfire  
+## What am I up to?  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning: Python, Typescript, Next  
+🌱 I’m currently learning: Python, Typescript, Next  
   
 
-- ⚡ All of my projects here: https://cindypsd.netlify.app/  
+🔭 I’m currently improving my repositories  
+  
+
+💞️ I’m looking to collaborate on new proyects, so reach me out  
 
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="center" style="width: 100%" />
-</div>  
+⚡ All of my projects here: https://cindypsd.netlify.app/  
+  
+
+<img src="https://media.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" align="left" height="250" width="" />  
 
 
 </td></tr></table>  
 
 <br/>  
 
+### <div align="center">💻 Languages and Tools Section</div>  
+  
 
-## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -82,8 +87,6 @@ Let's build something amazing together. Reach out to me anytime, and let's get s
 
 <br/>  
 
-
-## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cindypsd&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
@@ -102,11 +105,3 @@ Let's build something amazing together. Reach out to me anytime, and let's get s
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
