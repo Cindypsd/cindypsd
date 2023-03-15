@@ -1,18 +1,44 @@
+<table><tr><td valign="top" width="50%">
+
+## Hello world! 💫🚀  
+  
+
+I'm a Full-Stack Developer with a passion for coding! 💻 My skills include HTML, CSS, JavaScript, React, Node.js, SQL, and more. I love learning and collaborating with others to build innovative web applications. You'll find some of my latest projects, which showcase my skills and experience in the field.  
+  
+
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D5616AQEXt4F-Thj9gw/profile-displaybackgroundimage-shrink_350_1400/0/1675816721144?e=1684368000&v=beta&t=-IdA5In6LbBdTbh1czzVSEV9bYpof-S0nPzpeKQEJLE" align="center" style="width: 100% " />
+<img src="https://media.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif" align="center" height="150" width="" />
+</div>  
+
+
+</td><td valign="top" width="50%">
+
+## Soy Cindy Posada
+
+
+  
+  
+
+If you're looking for a creative and versatile developer to join your team, I'm your person!   
+  
+
+<div align="center">
+<img src="https://media.tenor.com/BfGFYekoftQAAAAC/spongebob-squarepants-spongebob.gif" align="center" height="150" width="" />
 </div>  
   
-## <div align="center">Hola! soy Cindy Posada💫🚀</div>  
-  
 
-I'm a Full-Stack Developer with a passion for coding! 💻 My skills include HTML, CSS, JavaScript, React, Node.js, SQL, and more. I love learning and collaborating with others to build innovative web applications. You'll find some of my latest projects, which showcase my skills and experience in the field.
+___
 
-If you're looking for a creative and versatile developer to join your team, I'm your person! Let's build something amazing together. Reach out to me anytime, and let's get started! 💡  
-  
+Let's build something amazing together. Reach out to me anytime, and let's get started! 💡  
+
+
+</td></tr></table>  
 
 <br/>  
 
-<table><tr><td valign="top" width="50%" style="border: none">
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning: Python, Typescript, Next  
   
@@ -39,6 +65,7 @@ If you're looking for a creative and versatile developer to join your team, I'm 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -73,9 +100,13 @@ If you're looking for a creative and versatile developer to join your team, I'm 
 
 <br/>  
 
+  
+
+<br/>  
+
+  
 
 <br/>  
 
 
 <br />
-
