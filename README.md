@@ -78,13 +78,9 @@ If you're looking for a creative and versatile developer to join your team, I'm 
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
 
 <br/>  
 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
