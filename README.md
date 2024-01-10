@@ -3,7 +3,9 @@
 ## Hello world! 💫🚀  
   
 
-I'm a Full-Stack Developer with a passion for coding! 💻 My skills include HTML, CSS, JavaScript, React, Node.js, SQL, and more. I love learning and collaborating with others to build innovative web applications. You'll find some of my latest projects, which showcase my skills and experience in the field.  
+Hi there, I'm Cindy Posada, your friendly neighborhood Frontend developer! ✌🏼
+
+Communication is key, and lucky for you, I'm fluent in both human and computer language 🤖. I'm a Full-Stack Developer with a passion for coding! 💻 My skills include HTML, CSS, JavaScript, React, Node.js, SQL, and more. I love learning and collaborating with others to build innovative web applications. You'll find some of my latest projects, which showcase my skills and experience in the field.  
   
 
 <div align="center">
@@ -40,10 +42,10 @@ Let's build something amazing together. Reach out to me anytime, and let's get s
 ## What am I up to?  
 <table><tr><td valign="top" width="50%">
 
-🌱 I’m currently learning: Python, Typescript, Next  
+🌱 I’m currently learning: Storybook, Nest  
   
 
-🔭 I’m currently improving my repositories  
+🔭 I’m currently working  
   
 
 💞️ I’m looking to collaborate on new proyects, so reach me out  
